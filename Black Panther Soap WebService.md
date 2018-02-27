@@ -58,8 +58,8 @@ Example
 ```
 
 ```
-   <ns2:statusCode>SUCCESS</ns2:statusCode>
-   <ns2:message>Actor Deleted Successfully</ns2:message>
+ <ns2:statusCode>SUCCESS</ns2:statusCode>
+ <ns2:message>Actor Deleted Successfully</ns2:message>
 ```
 
 
