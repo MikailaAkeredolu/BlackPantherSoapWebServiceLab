@@ -30,7 +30,7 @@ Id: 1
 Name: 	Chadwick Boseman
 ```
 ```
-description: T'Challa / Black Panther
+Description: T'Challa / Black Panther
 ```
 
 
