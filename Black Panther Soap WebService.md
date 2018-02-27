@@ -20,7 +20,7 @@ Create a xsd file to  addActorRequest, getActorByIdRequest, updateActorRequest, 
 Hint: Add the corresponding responses too to your schema definition file (xsd)
 
 
-In your database each actor should have an Id, name and a
+In your database each actor should have an Id, name and a description
 
 Example:  
 ```
