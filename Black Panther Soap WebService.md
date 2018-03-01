@@ -22,6 +22,7 @@ Create a xsd file for the following endpoints
  - updateActorRequest
  - getAllActorsRequest
  - deleteActorRequest.
+
 Hint: Add the corresponding responses too to your schema definition file (xsd)
 
 
@@ -79,7 +80,8 @@ Example
 </SOAP-ENV:Envelope>
 ```
  #### Part 3:
-Add a service status to output success and failure with the following CRUD operations. Create Update, DELETE #wakandaforever
+Add a service status to output success and failure with the following CRUD operations. Create Update, DELETE 
+- #wakandaforever
 
 Example
 
