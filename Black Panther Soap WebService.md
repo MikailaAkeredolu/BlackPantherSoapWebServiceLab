@@ -40,7 +40,12 @@ Description: T'Challa / Black Panther
 ```
 
 
-Once you are done. Create files for your WebService Configuration, endpoints, repository, service and entity in seperate packages.
+Once you are done. Create files and packages for the following:
+- WebService Configuration
+- Endpoints 
+- Repository
+- Service
+- Entity 
 
  #### Part 2:
 - Connect your soap web service to the h2 in memory database (Bonus points if you use Mysql)
